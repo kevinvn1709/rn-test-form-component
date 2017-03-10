@@ -1,3 +1,5 @@
+![alt tag](https://raw.githubusercontent.com/kevinvn1709/rn-test-form-component/master/rn-test.gif)
+
 ## :arrow_up: Run iOS
 
 Require Xcode 8 or higher
